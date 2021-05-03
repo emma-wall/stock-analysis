@@ -89,4 +89,3 @@ An advantage to refactoring code is a quicker run time, in this case the code ra
 ### Disadvantages of refactoring 
 
 One of the main disadvantages of refactoring code is the time it takes to refactor. If the code you have runs perfectly well, it might not be worth the time to refactor it. With only evaluating 12 stocks, ran about 0.7 seconds faster and might not have been worth the time and effort to refractor. 
-![image](https://user-images.githubusercontent.com/80648379/116833611-40714880-ab88-11eb-92b4-309b366ca73f.png)

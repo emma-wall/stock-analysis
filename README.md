@@ -80,7 +80,7 @@ When using the refactored code and looping through the data once, it only takes 
 
 ![VBA Challenge 2018](https://user-images.githubusercontent.com/80648379/116833651-70205080-ab88-11eb-9b28-9392d95074a7.png)
 
-##Summary 
+## Summary 
 
 ### Advantages of refactoring 
 
